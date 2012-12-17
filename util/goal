@@ -1,0 +1,12 @@
+#install software
+http://download.eclipse.org/technology/m2e/releases
+
+# goal
+compiler:compile
+dependency:copy-dependencies
+
+# goal ���
+http://maven.apache.org/plugins/index.html
+11
+212
+10
